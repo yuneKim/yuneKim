@@ -6,4 +6,6 @@
 
 -> 🌱 studying... 
 
-[![My Skills](https://skillicons.dev/icons?i=js,html,css,wasm)](https://skillicons.dev)
+### Tech Stack
+
+[![My Skills](https://skillicons.dev/icons?i=java,spring,postgresql,js,vue,html,css,ps,vscode,idea)](https://skillicons.dev)
