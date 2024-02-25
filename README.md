@@ -16,11 +16,12 @@ Truly fascinated by all the new technologies out there, eager to explore how the
     <a href="https://yunekim.github.io/bug-wars-client/resumes/Yune_Kim_Resume.pdf">📝 Resume</a>
   </li>
 </ul>
-
 </br>
 <h3>🍫Tech Stacks</h3>
 
 [![My Skills](https://skillicons.dev/icons?i=java,spring,postgresql,js,vue,html,css,ps,vscode,idea)](https://skillicons.dev)
 
-
-
+</br>
+<a href="https://github.com/anuraghazra/convoychat">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=yuneKim&theme=bear&layout=compact&hide=python,php" />
+</a>
